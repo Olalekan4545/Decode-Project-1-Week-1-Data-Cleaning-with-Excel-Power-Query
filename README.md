@@ -1,7 +1,9 @@
 # Decode-Project-1-Week-1-Data-Cleaning-with-Excel-Power-Query
 
 ## Project Overview
-This project documents my Week 1 data-cleaning task for Decode Project 1. The objective was to clean, standardize, and validate a dataset using Microsoft Excel Power Query to improve data quality and prepare it for further analysis.
+This project documents my Week 1 data-cleaning task for Decode Project 1. 
+
+The objective was to clean, standardize, and validate a dataset using Microsoft Excel Power Query to improve data quality and prepare it for further analysis.
 
 Tool Used: Microsoft Excel Power Query
 Dataset Size: 100 Rows × 14 Columns
@@ -15,6 +17,7 @@ Dataset Size: 100 Rows × 14 Columns
 - Standardize text and date formats.
 - Validate the dataset after cleaning.
 
+#
 ## 🛠️ Data Cleaning Process
 
 1. Data Import
@@ -63,6 +66,8 @@ After cleaning, I used the Column Profile feature to review the columns and vali
 - Text Standardization
 - Date Formatting
 - Data Quality Validation
+
+#
 
 ## 📁 Repository Structure
 
