@@ -72,12 +72,23 @@ After cleaning, I used the Column Profile feature to review the columns and vali
 ## 📁 Repository Structure
 
 Decode-Project-1-Week-1/
+
 │
+
+
 ├── README.md
+
+
 ├── data.xlmx
-│   └── 
+
+
+│  └── 
+
+
 └── screenshots.image
-    └── 
+    
+
+ └── 
 
 - README.md: *Provides an overview of the project, objectives, cleaning process, and outcomes.*
 - data/: *For storing the cleaned dataset.*
