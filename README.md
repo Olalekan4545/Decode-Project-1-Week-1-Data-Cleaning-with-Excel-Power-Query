@@ -76,19 +76,19 @@ Decode-Project-1-Week-1/
 │
 
 
-├── README.md
+├── [README.md](README.md)
 
 
-├── data.xlmx
+├── data.xlsx
 
 
-│  └── 
+│  └── [Decode-Intenship-Project-1.xlsx](Decode-Intenship-Project-1.xlsx)
 
 
-└── screenshots.image
+└── screenshots.Image
     
 
- └── 
+ └── [data_Quality.png](data_Quality.png) / [data_profilling.png](data_profilling.png)
 
 - README.md: *Provides an overview of the project, objectives, cleaning process, and outcomes.*
 - data/: *For storing the cleaned dataset.*
